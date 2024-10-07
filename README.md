@@ -78,3 +78,17 @@ I'm always exploring new data science and machine learning projects to expand my
 
 - [LinkedIn](https://www.linkedin.com/in/sowmya-vara/)
 - [Email](mailto:sowmyavara26@gmail.com)
+
+
+<div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
+  <a href="https://github.com/Sowmya74/AWS-Academy-Lab-Project-Cloud-Web-Application-Builder">
+    <img src="https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Images/webapp_cloud.jpg" alt="AWS Academy Lab Project" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" width="300" height="200"/>
+  </a>
+  <div>
+    <h3>AWS Academy Lab Project Cloud Web Application Builder</h3>
+    <p>This project involves migrating Example University's student records web application to AWS to address performance and availability issues during peak admissions periods. The solution leverages AWS services like VPC, EC2, Cloud9, RDS MySQL, Systems Manager, and Load Balancer to create a scalable, highly available, and secure architecture.</p>
+    <a href="https://github.com/Sowmya74/AWS-Academy-Lab-Project-Cloud-Web-Application-Builder">
+      <img src="https://img.shields.io/badge/View%20Repository-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black">
+    </a>
+  </div>
+</div>
