@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### 🌟 Project 1: [AWS Academy Lab Project Cloud Web Application Builder](https://github.com/Sowmya74/AWS-Academy-Lab-Project-Cloud-Web-Application-Builder)
+### 🌟 [AWS Academy Lab Project Cloud Web Application Builder](https://github.com/Sowmya74/AWS-Academy-Lab-Project-Cloud-Web-Application-Builder)
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/Sowmya74/AWS-Academy-Lab-Project-Cloud-Web-Application-Builder">
     <img src="https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Images/webapp_cloud.jpg" alt="Project Image" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" width="300" height="200"/>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🌟 Project 2: [Netflix Data & Trends Visualization on Amazon Quicksight](https://github.com/Sowmya74/AWS_Projects/tree/0e12208aa2abdeeb9a9c545cade641a2b2193477/Netflix%20Data%20%26%20Trends%20Visualization%20on%20Amazon%20Quicksight)
+### 🌟 [Netflix Data & Trends Visualization on Amazon Quicksight](https://github.com/Sowmya74/AWS_Projects/tree/0e12208aa2abdeeb9a9c545cade641a2b2193477/Netflix%20Data%20%26%20Trends%20Visualization%20on%20Amazon%20Quicksight)
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/Sowmya74/AWS_Projects/tree/0e12208aa2abdeeb9a9c545cade641a2b2193477/Netflix%20Data%20%26%20Trends%20Visualization%20on%20Amazon%20Quicksight">
     <img src="https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Images/data_visualization.png" alt="Project 2" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" width="300" height="200"/>
@@ -34,7 +34,7 @@
 
 ---
 
-### 🌟 Project 3: [Banking ChatBot using Amazon Lex](https://github.com/Sowmya74/Banking_ChatBot_using_Amazon_Lex)
+### 🌟 [Banking ChatBot using Amazon Lex](https://github.com/Sowmya74/Banking_ChatBot_using_Amazon_Lex)
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/Sowmya74/Banking_ChatBot_using_Amazon_Lex">
     <img src="https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Images/Bank_Chatbot.png" alt="Project 3" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" width="300" height="200"/>
@@ -49,7 +49,7 @@
 
 ---
 
-### 🌟 Project 4: [Hosting Static Website on Amazon S3](https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Hosting%20a%20static%20website%20on%20Amazon%20S3.pdf)
+### 🌟 [Hosting Static Website on Amazon S3](https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Hosting%20a%20static%20website%20on%20Amazon%20S3.pdf)
 <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 20px;">
   <a href="https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Hosting%20a%20static%20website%20on%20Amazon%20S3.pdf">
     <img src="https://github.com/Sowmya74/AWS_Projects/blob/0e12208aa2abdeeb9a9c545cade641a2b2193477/Images/Static_page.png" alt="Project 4" style="border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" width="300" height="200"/>
